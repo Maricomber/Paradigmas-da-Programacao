@@ -1,4 +1,4 @@
-package entidades;
+package prog_java.entidades;
 
 import java.util.List;
 

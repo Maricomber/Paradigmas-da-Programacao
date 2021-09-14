@@ -1,8 +1,8 @@
-package exercicios;
+package prog_java.exercicios;
 
 import java.util.Scanner;
 
-import entidades.Retangulo;
+import prog_java.entidades.Retangulo;
 
 public class Exercicio3 {
 

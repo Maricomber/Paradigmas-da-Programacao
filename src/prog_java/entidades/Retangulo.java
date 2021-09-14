@@ -1,4 +1,4 @@
-package entidades;
+package prog_java.entidades;
 
 public class Retangulo {
 

@@ -1,10 +1,10 @@
-package exercicios;
+package prog_java.exercicios;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import entidades.Pessoa;
+import prog_java.entidades.Pessoa;
 
 public class Exercicio1 {
 
