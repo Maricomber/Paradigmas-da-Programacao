@@ -1,9 +1,9 @@
-package prog_java.entidades;
+package entidades;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import prog_java.enums.AlunoEnum;
+import enums.AlunoEnum;
 
 public class Aluno extends Pessoa{
 	private List<Float>notas = new ArrayList<>();

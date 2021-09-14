@@ -1,4 +1,4 @@
-package prog_java.enums;
+package enums;
 
 public enum AlunoEnum {
 

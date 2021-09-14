@@ -1,12 +1,11 @@
-package prog_java;
 
 import java.util.Scanner;
 
-import prog_java.exercicios.Exercicio1;
-import prog_java.exercicios.Exercicio2;
-import prog_java.exercicios.Exercicio3;
-import prog_java.exercicios.Exercicio4;
-import prog_java.exercicios.Exercicio5;
+import exercicios.Exercicio1;
+import exercicios.Exercicio2;
+import exercicios.Exercicio3;
+import exercicios.Exercicio4;
+import exercicios.Exercicio5;
 
 
 public class ExercicioMain {

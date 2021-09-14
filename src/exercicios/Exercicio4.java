@@ -1,8 +1,8 @@
-package prog_java.exercicios;
+package exercicios;
 
 import java.util.Scanner;
 
-import prog_java.entidades.Funcionario;
+import entidades.Funcionario;
 
 public class Exercicio4 {
 	
